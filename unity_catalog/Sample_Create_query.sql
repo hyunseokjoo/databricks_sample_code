@@ -1,7 +1,7 @@
 -- Catalog 생성
 create catalog if not exists ucdemoca;
 
-
+  
 -- Database(=Schema) 생성
 create database if not exists ucdemoca.ucdemodb;
 
